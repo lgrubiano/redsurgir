@@ -26,6 +26,6 @@ Es posible que una parroquia, diócesis, movimiento laical o congregación relig
   <li type="square"> Traje a la medida.</li>
   <li type="square"> Mesa común.</li>
   <li type="square"> Capitalidad apostólica.</li>
->/ul>
+</ul>
   
 NOTA. Esta es la idea fundante, la misma está sujeta a discusión y aportes libres de la comunidad de nuestro Github. El objetivo es llegar al mejor modelo posible para iniciar y modificable por la Voz del Espíritu que vaya dándose en el inicio y desarrollo de la Red: Vox populi, vox Dei.
