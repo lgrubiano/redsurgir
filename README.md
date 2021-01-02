@@ -1,7 +1,7 @@
 # redsurgir
 Ecosistema digital para la reactivación y recuperación de líderes y voluntariado social católico afectados económicamente por la Pandemia, con opción preferencial por ellos, no excluyente de ningún "último" y orientada a evangelizar e ingresar en el Sector de Economía Solidaria.
 
-<b>Qué es el proyecto</b>: Es una iniciativa de pastoral social impulsada por un sacerdote en retiro que pretende sumar a la transformación digital eclesial generando una respuesta efectiva a la nueva realidad de pandemia y postpandemia y a la necesidad de emprender una renovada pastoral digital desde las parroquias y comunidades, grupos y movimientos eclesiales, en un contexto de aumento masivo de fieles digitales.
+<b>Qué es el proyecto</b>: Es una iniciativa de pastoral social impulsada por un sacerdote, con dispensa eclesial, que pretende sumar a la transformación digital eclesial generando una respuesta efectiva a la nueva realidad de pandemia y postpandemia y a la necesidad de emprender una renovada pastoral digital desde las parroquias y comunidades, grupos y movimientos eclesiales, en un contexto de aumento masivo de fieles digitales.
 
 <b>Qué hace el proyecto:</b> Acompaña y ofrece espacios, relaciones, herramientas y capacitación digitales para la reactivación económica evangelizadora de los líderes y voluntarios católicos, en principio y luego a sus grupos o beneficiarios de la Pastoral Social parroquial o diocesana.
 
