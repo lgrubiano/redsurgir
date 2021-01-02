@@ -19,7 +19,7 @@ Ecosistema digital para la reactivación y recuperación de líderes y voluntari
 
 Es posible que una parroquia, diócesis, movimiento laical o congregación religiosa, se constituyan en socios de capital relacional de una de las franquicias de la Red, permitiendo crear la red de su propia "esfera de control", en este caso los ingresos del 70% van a las arcas de la entidad con la destinación de, al menos, el 50% al desarrollo de la pastoral digital de la parroquia o diócesis. El 30%, correspondiente a la remuneración por los servicios de TI prestados a la parroquia, iría para el Fondo de Desarrollo TI Evangelizadora de Red Surgir, el cual se invertirá en el desarrollo digital pastoral que promueve la Red. Las iniciativas generadas con ese fondo se colocarán a costo, dentro del portafolio de servicios prestados a la parroquia, diócesis, grupo o movimiento que co-financia el Fondo.
 
-<b>Principios fundantes:</b> Nos regimos por los principios de acción de la RIIAL - Red Informática de la Iglesia en la América Latina, que son:
+<b>Principios fundantes:</b> Nos regimos por los principios de acción de la RIIAL - Red Informática de la Iglesia en la América Latina ( http://www.riial.org/que-es-la-riial-2/ ), que son:
 <ul>
   <li type="square"> Llegar a los últimos.</li>
   <li type="square"> Ecuación Necesidad-Servicio.</li>
